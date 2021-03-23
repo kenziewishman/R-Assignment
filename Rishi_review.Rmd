@@ -1,0 +1,16 @@
+title: "Jaspreet Rishi's comments"
+author: "Carter Newton"
+date: "19 March 2021"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+  Hi McKenzie
+
+I would suggest you to add the ordered teosinte and maize chromosome files to your repository as well. I think that's part of the assignment too. 
+
+I was also not able to run your code by the 'run all command' The error was about some files not found. I have the original file and it worked for the other repository I reviewed. So you might wanna check on that!
+
+Best
+
+Jaspreet
