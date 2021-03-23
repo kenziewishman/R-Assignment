@@ -1,0 +1,12 @@
+title: "Jaspreet Rishi's comments"
+author: "Carter Newton"
+date: "19 March 2021"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+  Hi McKenzie
+
+I would suggest you to add the ordered teosinte and maize chromosome files to your repository as well. I think that's part of the assignment too. Otherwise, it looks good!
+
+Best
